@@ -4362,7 +4362,7 @@ void Handler::RenderAbout()
         { "ImGui", "Copyright (c) 2014-2019 Omar Cornut", "https://github.com/ocornut/imgui" },
         { "{fmt}", "Copyright (c) 2012 - 2019, Victor Zverovich", "https://github.com/fmtlib/fmt" },
         { "JSON for Modern C++", "Copyright (c) 2013-2019 Niels Lohmann", "https://github.com/nlohmann/json" },
-        { "cpp-base64", u8"Copyright (C) 2004-2017 René Nyffenegger", "https://github.com/ReneNyffenegger/cpp-base64" },
+        { "cpp-base64", "Copyright (C) 2004-2017 René Nyffenegger", "https://github.com/ReneNyffenegger/cpp-base64" },
         { "INI Not Invented Here", "Copyright (c) 2009, Ben Hoyt", "https://github.com/jtilly/inih" },
         { "libspng", "Copyright (c) 2018-2019, Randy", "https://libspng.org" },
         { "curlpp", "Copyright (c) <2002-2004> <Jean-Philippe Barrette-LaPierre>", "http://www.curlpp.org" },
